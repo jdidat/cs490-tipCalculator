@@ -155,7 +155,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="650" y="251"/>
+            <point key="canvasLocation" x="-28" y="236"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="jck-OP-3LS">
@@ -173,7 +173,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hdR-uN-eiN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-375" y="251"/>
+            <point key="canvasLocation" x="-1220" y="236"/>
         </scene>
     </scenes>
 </document>

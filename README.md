@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/h4ftY' title='CS 490 tip calculator demo' width='369' height'686' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/h4ftY.gif' title='CS 490 tip calculator demo' width='369' height'686' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
