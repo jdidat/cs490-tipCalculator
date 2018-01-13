@@ -155,7 +155,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="-28" y="236"/>
+            <point key="canvasLocation" x="-158" y="235"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="jck-OP-3LS">
